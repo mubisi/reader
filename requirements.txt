@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+pandas
+lxml
+html5lib
+matplotlib
+SQLAlchemy
+python-docx
+pypdf2
+PyPDF4
+typer
+openpyxl
+feedparser
+html2text

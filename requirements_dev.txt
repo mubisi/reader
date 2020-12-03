@@ -1,0 +1,11 @@
+-r requirements.txt
+
+notebook
+flake8
+black
+rope
+pytest
+pylint
+twine
+wheel
+setuptools
