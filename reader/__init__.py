@@ -1,7 +1,7 @@
 from configparser import ConfigParser as _ConfigParser
 from importlib import resources
 
-__version__ = "2.2.0"
+__version__ = "2.3.0"
 
 _cfg = _ConfigParser()
 
