@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="reader-miha-193",
-    version="1.0.0",
+    version="2.1.0",
     description="Read the latest news for Realpython",
     long_description=README,
     long_description_content_type="text/markdown",
